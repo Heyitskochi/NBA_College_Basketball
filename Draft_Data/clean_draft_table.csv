@@ -1,4 +1,4 @@
-Team,Player,College,Year,Pro_height(in),Pro_weight(lb),DOB
+Team,Player,College,Draft_Year,Pro_height_inches,Pro_weight_lb,Date of Birth
 CLE,lebron-james,,2003,81.0,250.0,12/30/1984
 DET,darko-milicic,,2003,84.0,250.0,6/20/1985
 DEN,carmelo-anthony,Syracuse,2003,79.0,238.0,5/29/1984
